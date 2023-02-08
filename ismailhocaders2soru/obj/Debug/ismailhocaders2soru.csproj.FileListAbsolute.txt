@@ -1,0 +1,11 @@
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\bin\Debug\ismailhocaders2soru.exe.config
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\bin\Debug\ismailhocaders2soru.exe
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\bin\Debug\ismailhocaders2soru.pdb
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.csproj.AssemblyReference.cache
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.csproj.SuggestedBindingRedirects.cache
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.Form1.resources
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.Properties.Resources.resources
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.csproj.GenerateResource.cache
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.csproj.CoreCompileInputs.cache
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.exe
+D:\VİSUAL STUDİO ÇALIŞMALARIM\ismailhocaders2soru\ismailhocaders2soru\obj\Debug\ismailhocaders2soru.pdb
